@@ -19,7 +19,7 @@ A secure, terminal-based application to track income, expenses, and budgets. Bui
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/FinanceManager.git](https://github.com/YOUR_USERNAME/FinanceManager.git)
+    git clone [https://github.com/YOUR_USERNAME/FinanceManager.git](https://github.com/Siddamsetti-Venkata-Pavan/FinanceManager.git)
     cd FinanceManager
     ```
 
@@ -39,3 +39,4 @@ A secure, terminal-based application to track income, expenses, and budgets. Bui
     ```bash
     python main.py
     ```
+
