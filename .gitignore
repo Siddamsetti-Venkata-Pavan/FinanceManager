@@ -1,0 +1,19 @@
+# Security: Never upload secrets
+.env
+
+# Database: Never upload user data
+finance.db
+*.db
+
+# Python Junk: Cache files
+__pycache__/
+*.pyc
+
+# Build Artifacts: Do not upload the EXE or build folders
+dist/
+build/
+*.spec
+
+# Virtual Environment (if you have one)
+venv/
+env/
